@@ -35,8 +35,8 @@ struct ContentView: View {
                     )
 
                 case .dogsList:
-                    DogsListView(
-                        viewModel: AppContainer.shared.makeDogsListViewModel()
+                    DogsBreedsListView(
+                        viewModel: AppContainer.shared.makeDogsBreedsListViewModel()
                     )
                 }
             }
