@@ -47,9 +47,12 @@ Thanks Note:
 Thanks for reaching to my repo ! If this repo helped you, please tap the star button so more devs can discover it too.
 Please Follow me on Medium for more deep dives into Swift, SwiftUI, IoT and iOS architecture.
 If you enjoy my repos or articles, consider buying me a coffee to support my work!
-**buying me a coffee**  : https://buymeacoffee.com/gauravtakjaipur
-**Medium profile**: https://medium.com/@gauravtakjaipur
-**LinkedIn profile**: https://www.linkedin.com/in/gaurav-kumar-tak-977753348/
+
+- **buying me a coffee**  : https://buymeacoffee.com/gauravtakjaipur
+
+- **Medium profile**: https://medium.com/@gauravtakjaipur
+
+- **LinkedIn profile**: https://www.linkedin.com/in/gaurav-kumar-tak-977753348/
 
 Happy Coding 🚀
 
